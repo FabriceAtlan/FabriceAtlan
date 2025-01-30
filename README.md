@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 
 <img style="margin: 0 auto;" src="./github-header-image.png" alt="Bannière de bienvenue sur mon profil GitHub, affichant un message de bienvenue et des éléments graphiques.">
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FabriceAtlan&show_icons=true&hide_title=true&count_private=true)
+
 # À propos de moi
 
 Depuis toujours passionné par la programmation informatique, j'ai commencé mon apprentissage avec Visual Basic et Visual Basic for Applications. Quelques années plus tard, j'ai découvert le HTML et le CSS en étudiant les fichiers EPUB de ma liseuse Kobo. Cette nouvelle passion m'a poussé à élargir mes compétences et à me lancer dans divers projets. Lors de mon dernier poste en tant que chargé d'amélioration continue chez Safran Transmissions Systems, j'ai développé plusieurs petites applications d'automatisation des tâches.
