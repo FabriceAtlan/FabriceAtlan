@@ -26,8 +26,9 @@ Souhaitant aller plus loin, j'ai décidé en septembre 2024 de suivre une format
 Vous trouverez ici quelques-uns de mes projets, où je partage mon apprentissage et mes réalisations.
 
 ![image](https://github.com/user-attachments/assets/809d7e2e-e430-492c-b82b-44c966049a8c)
-![image](https://github.com/user-attachments/assets/323b23b9-7bde-4304-9140-4587c27a76dc)
-![image](https://github.com/user-attachments/assets/0f2f6c7c-fdcc-4c9a-a05d-934d3b742e78)
+![image](https://github.com/user-attachments/assets/b84a76c5-e47f-467a-9a7f-31ee70e1d713)
+
+
 
 
 
