@@ -27,7 +27,7 @@ Souhaitant aller plus loin, j'ai décidé en septembre 2024 de suivre une format
 
 Vous trouverez ici quelques-uns de mes projets, où je partage mon apprentissage et mes réalisations.
 
-## <img src="https://img.icons8.com/?size=100&id=WMvhDPZBJ9X2&format=png&color=000000" style="width: 32px;"> Quelques outils que j'utilise et apprend
+## <img src="https://img.icons8.com/?size=100&id=WMvhDPZBJ9X2&format=png&color=000000" style="width: 32px;vertical-align: middle;"> Quelques outils que j'utilise et apprend
 
 <p align="left">
   <img src="https://github.com/user-attachments/assets/809d7e2e-e430-492c-b82b-44c966049a8c" style="width: 32px;">
