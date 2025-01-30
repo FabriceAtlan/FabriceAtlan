@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **FabriceAtlan/FabriceAtlan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,9 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
-</picture>
- <img alt="YOUR-ALT-TEXT" src="./github-header-image.png">
+<img style="margin: 0 auto;" src="./github-header-image.png" alt="Bannière de bienvenue sur mon profil GitHub, affichant un message de bienvenue et des éléments graphiques.">
 
