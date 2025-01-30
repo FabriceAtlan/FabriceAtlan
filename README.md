@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 <img style="margin: 0 auto;" src="./github-header-image.png" alt="Bannière de bienvenue sur mon profil GitHub, affichant un message de bienvenue et des éléments graphiques.">
 
 <p style="height:300px; display: flex; justify-content: space-around;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabriceAtlan&layout=compact" style="height: 60px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=FabriceAtlan&show_icons=true&count_private=true&hide=prs" style="height: 60px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabriceAtlan&layout=compact" style="height: 250px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=FabriceAtlan&show_icons=true&count_private=true&hide=prs" style="height: 250px;">
 </p>
 
 # À propos de moi
