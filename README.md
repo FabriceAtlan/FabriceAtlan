@@ -13,12 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img style="margin: 0 auto;" src="./github-header-image.png" alt="Bannière de bienvenue sur mon profil GitHub, affichant un message de bienvenue et des éléments graphiques.">
+<img align="center" src="./github-header-image.png" alt="Bannière de bienvenue sur mon profil GitHub, affichant un message de bienvenue et des éléments graphiques.">
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabriceAtlan&layout=compact" style="height: 180px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=FabriceAtlan&show_icons=true&count_private=true&hide=prs" style="height: 180px;">
+<p align="center" style="display:flex; justify-content: center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabriceAtlan&layout=compact" style="height: 180px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=FabriceAtlan&show_icons=true&count_private=true&hide=prs" style="height: 180px;"/>
 </p>
+
 
 # À propos de moi
 
@@ -40,7 +41,7 @@ Vous trouverez ici quelques-uns de mes projets, où je partage mon apprentissage
   <img src="https://github.com/user-attachments/assets/6852833e-6d0c-4d96-8648-121cb9034e5b" style="padding-right:1rem;width: 64px;">
   <img src="https://img.icons8.com/?size=100&id=HcQEdKCkXUs3&format=png&color=000000" style="padding-right:1rem;width: 64px;">
   <img src="https://github.com/user-attachments/assets/ff3448e2-dfbd-448c-99ca-821db9122b05" style="padding-right:1rem;width: 64px;">
-  <img src="https://img.icons8.com/?size=100&id=123603&format=png&color=000000" style="width: 32px;">
+  <img src="https://img.icons8.com/?size=100&id=123603&format=png&color=000000" style="width: 64px;">
   <img src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" style="padding-right:1rem;width: 64px;">
   <img src="https://img.icons8.com/?size=100&id=WNoJgbzDr3i2&format=png&color=000000" style="padding-right:1rem;width: 64px;">
   <img src="https://img.icons8.com/?size=100&id=rgPSE6nAB766&format=png&color=000000" style="padding-right:1rem;width: 64px;">
