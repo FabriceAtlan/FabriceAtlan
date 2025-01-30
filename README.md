@@ -27,6 +27,17 @@ Vous trouverez ici quelques-uns de mes projets, où je partage mon apprentissage
 
 ![image](https://github.com/user-attachments/assets/809d7e2e-e430-492c-b82b-44c966049a8c)
 ![image](https://github.com/user-attachments/assets/b84a76c5-e47f-467a-9a7f-31ee70e1d713)
+![image](https://github.com/user-attachments/assets/6852833e-6d0c-4d96-8648-121cb9034e5b)
+![image](https://github.com/user-attachments/assets/ff3448e2-dfbd-448c-99ca-821db9122b05)
+![Uploading image.png…]()
+
+
+
+
+
+
+
+
 
 
 
