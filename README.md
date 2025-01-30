@@ -29,7 +29,7 @@ Vous trouverez ici quelques-uns de mes projets, où je partage mon apprentissage
 
 ## <img style="width: 32px;" src="https://img.icons8.com/?size=100&id=WMvhDPZBJ9X2&format=png&color=000000"/> Quelques outils que j'utilise et apprends
 
-<p align="left" style="margin: 0 0 1rem;display:flex;justify-content:center;">
+<p style="margin: 0 0 1rem; display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
   <img src="https://github.com/user-attachments/assets/809d7e2e-e430-492c-b82b-44c966049a8c" style="width: 32px;">
   <img src="https://github.com/user-attachments/assets/b84a76c5-e47f-467a-9a7f-31ee70e1d713" style="width: 32px;">
   <img src="https://github.com/user-attachments/assets/6852833e-6d0c-4d96-8648-121cb9034e5b" style="width: 32px;">
