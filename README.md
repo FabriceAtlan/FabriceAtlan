@@ -37,6 +37,8 @@ Vous trouverez ici quelques-uns de mes projets, où je partage mon apprentissage
 <img src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" style="width: 32px;">
 <img src="https://img.icons8.com/?size=100&id=WNoJgbzDr3i2&format=png&color=000000" style="width: 32px;">
 <img src="https://img.icons8.com/?size=100&id=W0YEwBDDfTeu&format=png&color=000000" style="width: 32px;">
+<img src="https://img.icons8.com/?size=100&id=rgPSE6nAB766&format=png&color=000000" style="width: 32px;">
+
 
 
 
