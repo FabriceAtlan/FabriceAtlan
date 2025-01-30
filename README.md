@@ -34,6 +34,13 @@ Vous trouverez ici quelques-uns de mes projets, où je partage mon apprentissage
 <img src="https://github.com/user-attachments/assets/6852833e-6d0c-4d96-8648-121cb9034e5b" style="width: 32px;">
 <img src="https://github.com/user-attachments/assets/ff3448e2-dfbd-448c-99ca-821db9122b05" style="width: 32px;">
 <img src="https://img.icons8.com/?size=100&id=123603&format=png&color=000000" style="width: 32px;">
+<img src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" style="width: 32px;">
+<img src="https://img.icons8.com/?size=100&id=WNoJgbzDr3i2&format=png&color=000000" style="width: 32px;">
+<img src="https://img.icons8.com/?size=100&id=W0YEwBDDfTeu&format=png&color=000000" style="width: 32px;">
+
+
+
+
 
 
 
