@@ -27,19 +27,19 @@ Souhaitant aller plus loin, j'ai décidé en septembre 2024 de suivre une format
 
 Vous trouverez ici quelques-uns de mes projets, où je partage mon apprentissage et mes réalisations.
 
-## Quelques outils que j'utilise et apprend
+## <img src="https://img.icons8.com/?size=100&id=WMvhDPZBJ9X2&format=png&color=000000" style="width: 32px;"> Quelques outils que j'utilise et apprend
 
 <p align="left">
   <img src="https://github.com/user-attachments/assets/809d7e2e-e430-492c-b82b-44c966049a8c" style="width: 32px;">
   <img src="https://github.com/user-attachments/assets/b84a76c5-e47f-467a-9a7f-31ee70e1d713" style="width: 32px;">
   <img src="https://github.com/user-attachments/assets/6852833e-6d0c-4d96-8648-121cb9034e5b" style="width: 32px;">
+  <img src="https://img.icons8.com/?size=100&id=HcQEdKCkXUs3&format=png&color=000000" style="width: 32px;">
   <img src="https://github.com/user-attachments/assets/ff3448e2-dfbd-448c-99ca-821db9122b05" style="width: 32px;">
   <img src="https://img.icons8.com/?size=100&id=123603&format=png&color=000000" style="width: 32px;">
   <img src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" style="width: 32px;">
   <img src="https://img.icons8.com/?size=100&id=WNoJgbzDr3i2&format=png&color=000000" style="width: 32px;">
-  <img src="https://img.icons8.com/?size=100&id=W0YEwBDDfTeu&format=png&color=000000" style="width: 32px;">
   <img src="https://img.icons8.com/?size=100&id=rgPSE6nAB766&format=png&color=000000" style="width: 32px;">
-  <img src="https://img.icons8.com/?size=100&id=HcQEdKCkXUs3&format=png&color=000000" style="width: 32px;">
+  <img src="https://img.icons8.com/?size=100&id=W0YEwBDDfTeu&format=png&color=000000" style="width: 32px;">
 </p>
 
 
