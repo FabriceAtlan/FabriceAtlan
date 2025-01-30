@@ -15,11 +15,8 @@ Here are some ideas to get you started:
 
 <img style="margin: 0 auto;" src="./github-header-image.png" alt="Bannière de bienvenue sur mon profil GitHub, affichant un message de bienvenue et des éléments graphiques.">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FabriceAtlan&show_icons=true&hide_title=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FabriceAtlan&layout=compact)
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=FabriceAtlan&bg_color=ffffff&color=6e4e37&line=6e4e37&point=000000)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FabriceAtlan&show_icons=true&count_private=true&hide=prs)
-
 
 # À propos de moi
 
