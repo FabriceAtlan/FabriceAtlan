@@ -43,14 +43,14 @@ Toujours avide de progression, j’ai entamé en septembre&nbsp;2024 une formati
 
 **Développement d’interfaces utilisateur web dynamiques**
 
-- Maquettage et conception d’applications
-- Développement d’interfaces web statiques et responsives
+- Maquettage et conception d’applications (Figma)
+- Développement d’interfaces web statiques et responsives&nbsp;(HTML, CSS, JavaScript, TypeScript, React)
 - Intégration et personnalisation d’interfaces via un CMS
 
 **Développement back-end pour applications web et mobiles**
-- Conception et gestion de bases de données
+- Conception et gestion de bases de données&nbsp;(MySQL)
 - Développement des composants d’accès aux données
-- Conception et implémentation de la logique back-end
+- Conception et implémentation de la logique back-end&nbsp;(Express, Node.js)
 
 Vous trouverez ici quelques-uns de mes projets, où je partage mon apprentissage et mes réalisations.
 
