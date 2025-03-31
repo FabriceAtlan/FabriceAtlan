@@ -23,13 +23,21 @@ Here are some ideas to get you started:
 
 # À propos de moi
 
-Depuis toujours passionné par la programmation informatique, j'ai commencé mon apprentissage avec Visual Basic et Visual Basic for Applications. Quelques années plus tard, j'ai découvert le HTML et le CSS en étudiant les fichiers EPUB de ma liseuse Kobo. Cette nouvelle passion m'a poussé à élargir mes compétences et à me lancer dans divers projets. Lors de mon dernier poste en tant que chargé d'amélioration continue chez Safran Transmissions Systems, j'ai développé plusieurs petites applications d'automatisation des tâches.
+Passionné par la programmation, j'ai toujours aimé explorer et comprendre comment fonctionnent les technologies. Mon aventure a commencé avec Visual Basic, puis j’ai découvert le **HTML** et le **CSS** en décortiquant les fichiers EPUB de ma liseuse Kobo. Ce fut le déclic&nbsp;: le développement web est rapidement devenu mon terrain de jeu.
 
-Ma curiosité m'a ensuite conduit à découvrir le développement de jeux vidéo, et j'ai réalisé qu'il était possible de programmer des jeux par soi-même avec des langages de haut niveau. J'ai alors rejoint l'école GameCodeur, où j'ai appris le langage LUA et le framework 2D Löve2D.
+Curieux et autodidacte, j’ai élargi mes compétences en m’aventurant dans le développement de jeux vidéo, notamment avec LUA et Löve2D, grâce à l’école GameCodeur. Mais c’est le web qui m’a véritablement captivé.
 
-Cependant, c'est le développement web qui m'attirait toujours autant. C'est pourquoi j'ai décidé de créer ma micro-entreprise en mars 2024 pour me lancer pleinement dans ce domaine. J'ai rapidement trouvé une entreprise pour laquelle je réalise des projets d'intégration web, de refonte de pages et de développement en JavaScript.
+En mars&nbsp;2024, j’ai franchi le pas en créant ma micro-entreprise pour accompagner entreprises et associations dans leurs projets&nbsp;:
 
-Souhaitant aller plus loin, j'ai décidé en septembre 2024 de suivre une formation certifiante afin d'obtenir le titre RNCP de développeur web et web mobile.
+- Développer des pages web dynamique et responsive avec **HTML**, **CSS** et **JavaScript**
+- Rendre accessible une infographie&nbsp;(RGAA)
+- Publier et actualiser des contenus web sur **WordPress** et **Drupal**
+- Modifier des liens de redirection en erreur
+- Optimiser le poids, la taille et le format des images pour maximiser les performances du site
+- Collaborer avec des équipes pluridisciplinaires (graphiste, webmaster, chef de projet, directeur de projet, développeur)
+- Proposer des stratégies pour le développement de composants
+
+Toujours avide de progression, j’ai entamé en septembre&nbsp;2024 une formation certifiante pour obtenir le titre **RNCP de développeur web et web mobile**. Mon objectif&nbsp;? Continuer à apprendre, à innover et à créer des expériences interactives qui font la différence.
 
 Vous trouverez ici quelques-uns de mes projets, où je partage mon apprentissage et mes réalisations.
 
