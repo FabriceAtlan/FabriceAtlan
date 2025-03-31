@@ -39,6 +39,19 @@ En mars&nbsp;2024, j’ai franchi le pas en créant ma micro-entreprise pour acc
 
 Toujours avide de progression, j’ai entamé en septembre&nbsp;2024 une formation certifiante pour obtenir le titre **RNCP de développeur web et web mobile**. Mon objectif&nbsp;? Continuer à apprendre, à innover et à créer des expériences interactives qui font la différence.
 
+**Ce que j’ai appris&nbsp;:**
+
+**Développement d’interfaces utilisateur web dynamiques**
+
+- Maquettage et conception d’applications
+- Développement d’interfaces web statiques et responsives
+- Intégration et personnalisation d’interfaces via un CMS
+
+**Développement back-end pour applications web et mobiles**
+- Conception et gestion de bases de données
+- Développement des composants d’accès aux données
+- Conception et implémentation de la logique back-end
+
 Vous trouverez ici quelques-uns de mes projets, où je partage mon apprentissage et mes réalisations.
 
 ## <img style="width: 32px;" src="https://img.icons8.com/?size=100&id=WMvhDPZBJ9X2&format=png&color=000000"/> Quelques outils que j'utilise et apprends
